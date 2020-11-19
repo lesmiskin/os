@@ -5,3 +5,6 @@
 * nasm boot.asm -f bin -o boot.bin		# compile asm to machine code
 * qemu-system-x86_64 boot.bin			# run OS
 
+pg 31 - protected mode VGA.
+
+
